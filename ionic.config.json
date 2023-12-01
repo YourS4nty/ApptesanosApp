@@ -1,0 +1,7 @@
+{
+  "name": "Apptesanos1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
